@@ -1,0 +1,3 @@
+---- getmobileinfo_1 Matches (2 in 1 files) ----
+Gprs_test.c:int getmobileinfo_1()
+Gprs_test.c:		ld = getmobileinfo_1();
