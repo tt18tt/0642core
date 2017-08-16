@@ -1,0 +1,3 @@
+---- Scan_barcode_loop_W Matches (2 in 2 files) ----
+0642-Full-function.c:void Scan_barcode_loop_W()
+Cpucard_test.c:				Scan_barcode_loop_W();
